@@ -24,6 +24,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activesupport (>= 2.2.2)
   comma!
   rspec (>= 1.2.9)
